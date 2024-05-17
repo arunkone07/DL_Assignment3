@@ -1,4 +1,4 @@
-dl3_1.ipynb, a.py have RNN models without attention and dl3_2, b.py have RNN models with attention.
+dl3_1.ipynb, a.py have RNN models without attention and dl3_2.ipynb, b.py have RNN models with attention.
 Dataset paths must be adjusted in the code before running.
 Please install pytorch, wandb, pyplot, argparse, etc before execution.
 
